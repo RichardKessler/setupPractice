@@ -1,4 +1,4 @@
-const path = require('path'),
+const path = require('path')
 const CURRENT_WORKING_DIR = process.cwd()
 
 const config = {
